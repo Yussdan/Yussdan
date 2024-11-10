@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Yussdan!</h1>
 
-<!--
-**Yussdan/Yussdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a **Junior Data Engineer** from 🇷🇺 with a passion for **Data Engineering** and **Machine Learning**. Currently, I'm diving deeper into **math** and **statistics** to level up my ML skills and looking forward to contributing to cool projects. Always ready to learn something new and push my limits!
+
+---
+
+## 🌱 What I'm Learning
+
+- **Machine Learning Basics** 📚
+- **Mathematics for ML** 🤓
+- **Advanced Python Programming** 🐍
+- **IoT projects** 📡 
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Python, SQL
+- **Frameworks & Tools**: PySpark, Hadoop, Airflow, Spark
+- **Clouds**: Coming soon!
+- **Interests**: Recommender systems, Data processing, Big Data tools
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm open to collaborating on interesting projects that involve data engineering, ML, and especially **recommendation systems**. 
+
+---
+
+## 📬 Get in Touch
+
+Feel free to reach out if you want to **chat about data**, **collaborate**, or **just say hi!**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danil-yussupov-72713828a/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](Yussdan@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR3z8jXlEme3X4Q/giphy.gif" width="50"/>
+  <em>Let's build something amazing together!</em>
+  <img src="https://media.giphy.com/media/l3vR3z8jXlEme3X4Q/giphy.gif" width="50"/>
+</p>
