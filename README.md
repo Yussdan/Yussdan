@@ -41,7 +41,7 @@ I'm open to collaborating on interesting projects that involve data engineering,
 Feel free to reach out if you want to **chat about data**, **collaborate**, or **just say hi!**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danil-yussupov-72713828a/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](Yussdan@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:Yussdan@gmail.com)
 
 ---
 
