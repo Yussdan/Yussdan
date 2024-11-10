@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a **Junior Data Engineer** from 🇷🇺 with a passion for **Data Engineering** and **Machine Learning**. Currently, I'm diving deeper into **math** and **statistics** to level up my ML skills and looking forward to contributing to cool projects. Always ready to learn something new and push my limits!
+I'm a **Junior Data Engineer** from 🇷🇺 working at **VK** since January 2024, with a passion for **Data Engineering** and **Machine Learning**. Currently, I'm diving deeper into **math** and **statistics** to level up my ML skills and looking forward to contributing to cool projects. Always ready to learn something new and push my limits!
 
 ---
 
