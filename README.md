@@ -30,8 +30,8 @@ I'm a **Junior Data Engineer** from 🇰🇿 working at **VK** since January 202
 ---
 
 🚀 **Pet Project Tech Stack**  
-- **Languages**: Python, Sql(- Coming soon)
-- **Cloud Services**: S3(- Coming soon!)  
+- **Languages**: Python, Sql(**Coming soon**)
+- **Cloud Services**: S3(**Coming soon**)  
 
 ---
 
