@@ -30,33 +30,33 @@ I'm a **Junior Data Engineer** from 🇰🇿 working at **VK** since January 202
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🔥 Pet Project : Cryptocurrency Analytics
 
-I'm open to collaborating on interesting projects that involve data engineering, ML, and especially **recommendation systems**. 
+The project includes two components:
+
+1. **Cryptocurrency Analytics API server**: Flask API for obtaining data on the value of cryptocurrencies, historical data and analytics (average, median, minimum and maximum cost) with visualization of price changes.
+
+2. **Telegram bot for cryptocurrency analytics**: A bot that interacts with the API server, providing users with the current value of cryptocurrencies, statistics on historical data and graphs of price changes in real time.
+
+#### Implemented functions:
+- Connect to a third-party API to get up-to-date data.
+- Flash API with functions for getting data and plotting.
+- Telegram bot with interactive buttons to select the cryptocurrency and the period.
+- Visualization of price changes on the chart, data display via the bot.
+
+#### Development plans:
+- Set up regular ETL processes using Apache Air flow to upload data to the database.
+- Implement real-time data streaming using Kafka to track changes in the value of the cryptocurrency.
+- Add data caching with Redis to speed up API response.
+- Implement Spark for advanced analytics such as volatility calculation or trend detection.
+- Set up a notification system in the bot to notify you when the price goes beyond the specified limits.
+- Store graphs and reports in S3 so that the bot can provide links to them.
 
 ---
 
-## 🔥 Pet Project : Cryptocurrency Analytics
+## 🤝 Let's Collaborate!
 
-Проект включает два компонента:
-
-1. **API-сервер аналитики криптовалют**: Flask API для получения данных по стоимости криптовалют, исторических данных и аналитики (средняя, медианная, минимальная и максимальная стоимость) с визуализацией изменения цен.
-
-2. **Telegram-бот для аналитики криптовалют**: Бот, который взаимодействует с API-сервером, предоставляя пользователям актуальную стоимость криптовалют, статистику по историческим данным и графики изменения цен в реальном времени.
-
-#### Реализованные функции:
-- Подключение к стороннему API для получения актуальных данных.
-- Flask API с функциями для получения данных и построения графиков.
-- Telegram-бот с интерактивными кнопками для выбора криптовалюты и периода.
-- Визуализация изменений цен на графике, отображение данных через бота.
-
-#### Планы по развитию:
-- Настроить регулярные ETL-процессы с использованием Apache Airflow для загрузки данных в базу данных.
-- Реализовать стриминг данных в реальном времени с помощью Kafka, чтобы отслеживать изменение стоимости криптовалют.
-- Добавить кеширование данных с Redis для ускорения ответа API.
-- Внедрить Spark для расширенной аналитики, такой как расчет волатильности или выявление трендов.
-- Настроить систему уведомлений в боте для оповещения о выходе цены за заданные границы.
-- Хранить графики и отчеты в S3, чтобы бот мог предоставлять ссылки на них.
+I'm open to collaborating on interesting projects that involve data engineering, ML, and especially **recommendation systems**. 
 
 ---
 
