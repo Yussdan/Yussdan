@@ -23,10 +23,21 @@ I'm a **Junior Data Engineer** from 🇰🇿 working at **VK** since January 202
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL
-- **Frameworks & Tools**: PySpark, Hadoop, Airflow, Spark
-- **Clouds**: Coming soon!
-- **Interests**: Recommender systems, Data processing, Big Data tools
+👔 **Current Role**: Data Engineer at VK  
+- **Languages**: Python, SQL  
+- **Frameworks & Tools**: PySpark, Hadoop, Airflow, Spark  
+
+---
+
+🚀 **Pet Project Tech Stack**  
+- **Cloud Services**: Coming soon!  
+
+---
+
+💡 **Interests**:  
+- Recommender Systems  
+- Data Processing  
+- Big Data Tools  
 
 ---
 
