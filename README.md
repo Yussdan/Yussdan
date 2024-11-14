@@ -34,6 +34,11 @@ I'm a **Junior Data Engineer** from 🇰🇿 working at **VK** since January 202
 
 I'm open to collaborating on interesting projects that involve data engineering, ML, and especially **recommendation systems**. 
 
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yussdan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yussdan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 📬 Get in Touch
