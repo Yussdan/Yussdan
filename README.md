@@ -14,10 +14,7 @@ I'm a **Junior Data Engineer** from 🇰🇿 working at **VK** since January 202
 
 ## 🌱 What I'm Learning
 
-- **Machine Learning Basics** 📚
-- **Mathematics for ML** 🤓
 - **Advanced Python Programming** 🐍
-- **IoT projects** 📡 
 
 ---
 
@@ -31,14 +28,14 @@ I'm a **Junior Data Engineer** from 🇰🇿 working at **VK** since January 202
 
 🚀 **Pet Project Tech Stack**  
 - **Languages**: Python, Sql(**Coming soon**)
-- **Cloud Services**: S3(**Coming soon**)  
+- **Cloud Services**: S3
 
 ---
 
 💡 **Interests**:  
-- Recommender Systems  
 - Data Processing  
-- Big Data Tools  
+- Big Data Tools
+- Backend development 
 
 ---
 
